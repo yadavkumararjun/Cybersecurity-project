@@ -30,7 +30,7 @@ This project presents a comprehensive National Cybersecurity Law for the fiction
 
 ## Document
 
-📄 [View the Full Project](./CyberSecurity project(1).pdf)
+📄 [View the Full Project](./CyberSecurity project (1).pdf)
 
 ## Tools Used
 
